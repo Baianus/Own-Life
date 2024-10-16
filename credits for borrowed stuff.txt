@@ -1,1 +1,4 @@
 Onemanshow's viewmodel fixes
+xven for the double pistols, (in the start i planned to only use the double model and the icon another guy made but what i was planning didnt
+go well, if you want to see what i tried to do, just go on scripts, then "weapon_pistol" and change the pistol viewmodel to "v_pistol_2.mdl")
+Shirk for the lead pipe (he inst on the internet its been years but, he deserves credits)
